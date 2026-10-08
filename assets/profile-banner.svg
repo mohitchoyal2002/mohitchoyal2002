@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mohit Choyal — Senior Software Developer</title>
+  <desc id="desc">Ruby on Rails, React, Next.js and AI integrations, presented on a dark navy background with teal accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1727"/>
+      <stop offset="1" stop-color="#122d38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <g fill="none" stroke="#5eead4" stroke-opacity=".13">
+    <circle cx="1100" cy="130" r="120"/>
+    <circle cx="1100" cy="130" r="180"/>
+    <circle cx="1100" cy="130" r="240"/>
+  </g>
+  <rect x="54" y="48" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="54" y="89" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#5eead4">FULL-STACK ENGINEERING + APPLIED AI</text>
+  <text x="50" y="157" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#f8fafc">Mohit Choyal</text>
+  <text x="54" y="198" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#cbd5e1">Senior Software Developer</text>
+  <text x="54" y="253" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#b2cad6">Ruby on Rails  /  React  /  Next.js  /  AI Integrations</text>
+  <g transform="translate(986 166)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 0 L6 25 L32 50"/>
+    <path d="M91 0 L117 25 L91 50"/>
+    <path d="M73 -4 L50 55"/>
+  </g>
+</svg>
