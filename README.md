@@ -4,7 +4,7 @@
 
 # Hi, I'm Mohit Choyal
 
-**Senior Software Developer at Shriffle Technologies · 3+ years of experience**
+**Senior Software Developer at Shriffle Technologies · 4 years of total experience**
 
 I build full-stack products with **Ruby on Rails, React, and Next.js**—from authenticated APIs and PostgreSQL-backed services to AI document workflows and business automation.
 
