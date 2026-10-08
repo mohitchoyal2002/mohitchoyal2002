@@ -8,7 +8,7 @@
 
 I build full-stack products with **Ruby on Rails, React, and Next.js**—from authenticated APIs and PostgreSQL-backed services to AI document workflows and business automation.
 
-[OrbitFlow](https://www.orbitflow.work) · [Email](mailto:mohitchoyal2002@gmail.com) · [GitHub projects](https://github.com/mohitchoyal2002?tab=repositories)
+[Portfolio](https://mohit-web-dev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mohit-choyal/) · [OrbitFlow](https://www.orbitflow.work) · [Email](mailto:mohitchoyal2002@gmail.com) · [GitHub projects](https://github.com/mohitchoyal2002?tab=repositories)
 
 ## What I bring to a team
 
@@ -53,4 +53,4 @@ Previously: **Web Developer (MERN Stack), Zummit Infolabs** · November 2022 –
 
 I'm interested in full-stack product engineering, Rails/React applications, practical AI integrations, and open-source collaboration.
 
-**[mohitchoyal2002@gmail.com](mailto:mohitchoyal2002@gmail.com)** · [OrbitFlow](https://www.orbitflow.work)
+**[mohitchoyal2002@gmail.com](mailto:mohitchoyal2002@gmail.com)** · [Portfolio](https://mohit-web-dev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mohit-choyal/) · [OrbitFlow](https://www.orbitflow.work)
